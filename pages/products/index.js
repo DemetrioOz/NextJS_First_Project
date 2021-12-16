@@ -1,11 +1,8 @@
 import Link from "next/link";
 
-import Navbar from "../Components/Navbar";
-
 export default function Products() {
   return (
     <>
-      <Navbar />
       <h1>Pagina de Produtos</h1>
       <ul>
         <li>

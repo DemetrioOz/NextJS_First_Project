@@ -1,11 +1,8 @@
 import Link from "next/link";
 
-import Navbar from "../../Components/Navbar";
-
 export default function Pants() {
   return (
     <>
-      <Navbar />
       <h1>Calças</h1>
       <ul>
         <li>
