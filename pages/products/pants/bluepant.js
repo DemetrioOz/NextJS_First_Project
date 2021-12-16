@@ -1,3 +1,10 @@
+import Navbar from "../../Components/Navbar";
+
 export default function BluePant() {
-  return <h1>Calça azul</h1>;
+  return (
+    <>
+      <Navbar />
+      <h1>Calça azul</h1>
+    </>
+  );
 }
