@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+  height: 200px;
+}
+
+.footer p {
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer p:hover {
+  color: #ff1231;
+}

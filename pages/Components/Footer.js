@@ -1,7 +1,11 @@
+import styles from "../../styles/Footer.module.css";
+
 export default function Footer() {
   return (
     <>
-      <h1>Footer</h1>
+      <footer className={styles.footer}>
+        <p>Coded By Demetrio</p>
+      </footer>
     </>
   );
 }
